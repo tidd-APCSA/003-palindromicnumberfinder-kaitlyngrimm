@@ -19,7 +19,7 @@ public class PalindromicNumberFinder {
          palo=i;
          break;
        }else{
-         palo=i;
+         palo=1;
        }
      }
      return palo;
